@@ -45,4 +45,29 @@ section{
     height: 50vh;
 }
 
+button{
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color:rgb(35, 173, 150) ;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.starter{
+    display: block;
+    background-color:white ;
+    height: inherit;
+    text-align: center;
+    padding-top: 25%;
+}
+
+.hide{
+    display: none;
+}
+
 /*# sourceMappingURL=main.css.map*/
